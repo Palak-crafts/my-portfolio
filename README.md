@@ -82,4 +82,4 @@ A disaster intelligence and alert system developed to support disaster-related i
 
 ## 📬 Connect With Me
 
-- **Email:** ksinghpalak
+- **Email:** [ksinghpalak30@gmail.com](mailto:ksinghpalak30@gmail.com)
